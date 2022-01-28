@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @GowharYousuf
 - 👀 I’m interested in codiing especially in python and java
-- 🌱 I’m currently learning  full stsck devlopment in python
+- 🌱 I’m currently learning  full stack devlopment in python
 - 💞️ I’m looking to collaborate on web development
 - 📫 How to reach me instagram id gowhar__yousuf,email-gowharyousuf820@gmail.com
